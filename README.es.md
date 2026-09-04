@@ -177,10 +177,6 @@ documentó y lo modernizo de forma segura.
 
 [![Racha de GitHub](https://streak-stats.demolab.com?user=HazielMagallanes&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-</div>
-
-[![Gráfico de actividad de Haziel](https://github-readme-activity-graph.vercel.app/graph?username=HazielMagallanes&theme=tokyonight&hide_border=true&hide_title=false&area=true)](https://github.com/HazielMagallanes)
-
 <div align="center">
 
 💡 **Abierto a desafíos de desarrollo de software interesantes** — contáctame en

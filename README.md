@@ -171,10 +171,6 @@ documented, and modernize it safely.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=HazielMagallanes&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-</div>
-
-[![Haziel's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HazielMagallanes&theme=tokyonight&hide_border=true&hide_title=false&area=true)](https://github.com/HazielMagallanes)
-
 <div align="center">
 
 💡 **Open to interesting engineering challenges** — reach me at
