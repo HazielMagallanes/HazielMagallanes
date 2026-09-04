@@ -12,7 +12,6 @@
 
 [![Seguidores](https://img.shields.io/github/followers/HazielMagallanes?style=for-the-badge&logo=github&color=2088FF)](https://github.com/HazielMagallanes)
 ![Repos públicos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FHazielMagallanes&query=%24.public_repos&label=Repos%20P%C3%BAblicos&style=for-the-badge&logo=github&color=2088FF)
-![Estrellas totales](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FHazielMagallanes&query=%24.total_stars&label=Estrellas&style=for-the-badge&logo=github&color=2088FF)
 [![Email](https://img.shields.io/badge/Email-contactame.haziel%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contactame.haziel@gmail.com)
 
 </div>
