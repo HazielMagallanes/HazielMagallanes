@@ -37,6 +37,10 @@ Español nativo · Inglés profesional.
 
 <br/>
 
+## ⚽ Mi carta de GitFut
+
+[![My GitFut card](https://gitfut.com/HazielMagallanes.png)](https://gitfut.com/HazielMagallanes)
+
 ## 🧰 Stack
 
 ### 🖥 Backend
