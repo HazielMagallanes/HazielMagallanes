@@ -36,6 +36,10 @@ Spanish native · English professional.
 
 <br/>
 
+## ⚽ My GitFut card
+
+[![My GitFut card](https://gitfut.com/HazielMagallanes.png)](https://gitfut.com/HazielMagallanes)
+
 ## 🧰 Tech Stack
 
 ### 🖥 Backend
