@@ -170,6 +170,16 @@ documentó y lo modernizo de forma segura.
 
 <br/>
 
+## ⚽ Mi carta de GitFut
+
+<p align="center">
+  <a href="https://gitfut.com/HazielMagallanes">
+    <img src="https://gitfut.com/HazielMagallanes.png" alt="Mi carta de GitFut" width="300">
+  </a>
+</p>
+
+<br/>
+
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
@@ -184,14 +194,6 @@ documentó y lo modernizo de forma segura.
 </div>
 
 </div>
-
-## ⚽ Mi carta de GitFut
-
-<p align="center">
-  <a href="https://gitfut.com/HazielMagallanes">
-    <img src="https://gitfut.com/HazielMagallanes.png" alt="Mi carta de GitFut" width="300">
-  </a>
-</p>
 
 <br/>
 <hr/>

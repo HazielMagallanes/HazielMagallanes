@@ -164,6 +164,16 @@ documented, and modernize it safely.
 
 <br/>
 
+## ⚽ My GitFut card
+
+<p align="center">
+  <a href="https://gitfut.com/HazielMagallanes">
+    <img src="https://gitfut.com/HazielMagallanes.png" alt="My GitFut card" width="300">
+  </a>
+</p>
+
+<br/>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -178,14 +188,6 @@ documented, and modernize it safely.
 </div>
 
 </div>
-
-## ⚽ My GitFut card
-
-<p align="center">
-  <a href="https://gitfut.com/HazielMagallanes">
-    <img src="https://gitfut.com/HazielMagallanes.png" alt="My GitFut card" width="300">
-  </a>
-</p>
 
 <br/>
 <hr/>
