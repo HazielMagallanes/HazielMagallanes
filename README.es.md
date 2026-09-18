@@ -37,10 +37,6 @@ Español nativo · Inglés profesional.
 
 <br/>
 
-## ⚽ Mi carta de GitFut
-
-[![My GitFut card](https://gitfut.com/HazielMagallanes.png)](https://gitfut.com/HazielMagallanes)
-
 ## 🧰 Stack
 
 ### 🖥 Backend
@@ -186,6 +182,11 @@ documentó y lo modernizo de forma segura.
 [contactame.haziel@gmail.com](mailto:contactame.haziel@gmail.com)
 
 </div>
+
+
+## ⚽ Mi carta de GitFut
+
+[![My GitFut card](https://gitfut.com/HazielMagallanes.png)](https://gitfut.com/HazielMagallanes)
 
 <br/>
 <hr/>
