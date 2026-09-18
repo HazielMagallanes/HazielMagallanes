@@ -177,9 +177,15 @@ documented, and modernize it safely.
 
 </div>
 
+</div>
+
 ## ⚽ My GitFut card
 
-[![My GitFut card](https://gitfut.com/HazielMagallanes.png)](https://gitfut.com/HazielMagallanes)
+<p align="center">
+  <a href="https://gitfut.com/HazielMagallanes">
+    <img src="https://gitfut.com/HazielMagallanes.png" alt="My GitFut card" width="300">
+  </a>
+</p>
 
 <br/>
 <hr/>

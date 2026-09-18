@@ -183,10 +183,15 @@ documentó y lo modernizo de forma segura.
 
 </div>
 
+</div>
 
 ## ⚽ Mi carta de GitFut
 
-[![My GitFut card](https://gitfut.com/HazielMagallanes.png)](https://gitfut.com/HazielMagallanes)
+<p align="center">
+  <a href="https://gitfut.com/HazielMagallanes">
+    <img src="https://gitfut.com/HazielMagallanes.png" alt="Mi carta de GitFut" width="300">
+  </a>
+</p>
 
 <br/>
 <hr/>
