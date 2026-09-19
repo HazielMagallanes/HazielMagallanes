@@ -100,6 +100,9 @@ Español nativo · Inglés profesional.
 ![Maestro](https://img.shields.io/badge/Maestro-000000?style=for-the-badge)
 ![k6](https://img.shields.io/badge/k6-7D2BC0?style=for-the-badge&logo=k6&logoColor=white)
 
+### 📚 Aprendizaje
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
 <br/>
 
 ## 🚀 Trabajo destacado
